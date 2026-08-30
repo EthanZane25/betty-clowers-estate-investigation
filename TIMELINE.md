@@ -1,75 +1,138 @@
 # Investigation Timeline
 
-## 2004
-Willie Lee Clowers, Betty's husband, dies.
+## August 9, 2004
+**DOCUMENTED FROM 2026 PETITION:** Willie Lee Clowers, Betty's husband, predeceased Betty.
 
-His death may be relevant to later title activity involving 1661 Lawton Avenue.
+This is relevant to later title activity involving 1661 Lawton Avenue.
 
 ## April 1, 2008
-Betty Jean Clowers executes an earlier will.
+**DOCUMENTED FROM SOURCE PHOTOGRAPHS / UNCERTIFIED COPY:** Betty Jean Clowers executes an earlier will dated April 1, 2008.
 
-Reported/documented features include:
-- Betty identified as a Bibb County, Georgia resident.
+The four preserved source photographs show:
+- Betty identifies herself as a Bibb County, Georgia resident.
 - Donald Wright receives a life estate in 1661 Lawton Avenue.
-- Remainder interests include Keyvean Sheheed Clowers, Tiffany Clowers Hall, Andre Washington, Dave Dennis III, Starla Wright, and Bertha Anderson.
+- At termination of the life estate, Betty's interest is divided among Keyvean Sheheed Clowers, Tiffany Clowers Hall, Andre Washington, Dave Dennis III, Starla Wright, and Bertha Anderson, with a direction to sell and split the proceeds equally after outstanding bills/debt.
 - Andre Washington and Dave Dennis III are named executors.
-- Tiffany Clowers Hall is named successor executor.
-- Burial instructions appear in the will.
-- Frances Brooks Thornton does not appear to be a principal beneficiary in this estate plan.
+- Tiffany Clowers Hall is named successor executrix.
+- The will contains burial/funeral instructions.
+- Frances Brooks Thornton is not named in the four-page source copy.
+- The signature and affidavit pages are dated April 1, 2008.
+
+**Source limitation:** the repository copy is based on photographs supplied to the investigation; it is not represented as a certified court copy or the original paper instrument.
+
+## October 28, 2008
+**PUBLIC RECORD LEAD:** Donald Wright died. A Telegraph obituary says his family could be contacted at 1661 Lawton Avenue.
+
+Source:
+https://www.legacy.com/us/obituaries/macon/name/donald-wright-obituary?id=21261027
 
 ## July 22, 2009
-LEAD:
-Commercial property-history data reportedly shows a $0 / non-arm's-length quitclaim deed event involving 1661 Lawton Avenue.
+**LEAD:** commercial property-history data reportedly shows a $0/non-arm's-length quitclaim event involving 1661 Lawton Avenue.
 
-The actual deed has not yet been obtained.
+Actual deed still required.
 
-Do not assume this transfer involved Frances. It may instead relate to Willie Clowers's death, title cleanup, or another family transfer.
+## 2009–2024
+**TIMELINE GAP:** reconstruct:
+- Betty's residence;
+- property occupancy;
+- health;
+- finances;
+- caregivers;
+- relationship with Frances;
+- POAs;
+- account/beneficiary changes;
+- facility admissions.
+
+## 2025 — Before August 4
+**PRIORITY GAP:** determine when Frances became Betty's caregiver, whether paid, and the degree of dependency/control.
+
+Reconstruct all medical, legal, financial, and transportation events leading to the will appointment.
 
 ## August 4, 2025
-Later will executed.
+**DOCUMENTED:** later will executed.
 
-Issues identified for investigation:
-- Frances Brooks Thornton is described as Betty's "daughter and caretaker."
-- Frances receives Betty's interest in 1661 Lawton Avenue under the will.
-- Frances is directed to sell the property under the will's terms.
-- Dave Dennis III is named first personal representative.
-- Frances is named successor personal representative.
-- The will states Betty was domiciled in Aiken County, South Carolina.
-- Execution occurred approximately 81 days before Betty's death.
+Documented provisions/issues:
+- says Betty was domiciled in Aiken County, South Carolina;
+- describes Frances as "daughter and caretaker";
+- gives Frances Betty's interest in 1661 Lawton Avenue if Frances survives Betty;
+- directs Frances to sell the Lawton Avenue home;
+- names Dave Dennis III first personal representative;
+- names Frances successor personal representative;
+- contains two witness signatures and a South Carolina notarial block.
+
+Execution occurred approximately 81 days before Betty's death.
+
+## August 5–October 23, 2025
+**PRIORITY GAP:** reconstruct:
+- medical decline;
+- caregiver activity;
+- beneficiary/account changes;
+- insurance activity;
+- property activity;
+- communications about the will;
+- possession of original will;
+- facility/hospital events.
 
 ## October 24, 2025
-Betty Jean Clowers dies.
+**DOCUMENTED:** Betty Jean Clowers dies.
+
+## October 24–November 2025
+**PRIORITY POST-DEATH GAP:** determine:
+- who was notified and when;
+- who contacted funeral home;
+- who authorized cremation;
+- who paid;
+- who held the original will;
+- who entered/controlled the Lawton property;
+- who contacted family/heirs;
+- disposition of ashes.
 
 ## February 6, 2026
-Dave Dennis III signs a declination / renunciation of appointment and consents to Frances Brooks Thornton serving as successor personal representative.
+**DOCUMENTED:** Dave Dennis III signs renunciation declining appointment and consenting to Frances serving as successor personal representative.
 
 ## March 5, 2026
-Frances files a Petition to Probate Will in Solemn Form in Bibb County.
+**DOCUMENTED:** Frances files Petition to Probate Will in Solemn Form in Bibb County.
 
-Important relationship statement:
-The petition reportedly states Frances is not Betty's biological or adopted daughter and identifies her instead as Betty's goddaughter.
-
-Kayveon Clowers is identified as Betty's biological son / heir.
+The petition:
+- lists Betty's domicile as **1661 Lawton Avenue, Macon, Bibb County, Georgia** — directly conflicting with the 2025 will's Aiken County, South Carolina domicile statement;
+- identifies Kayveon as Betty's son and sole surviving biological child;
+- says Frances is not a biological or adopted daughter and is Betty's goddaughter;
+- requests publication because Kayveon's address was said to be unknown even though page 1 lists a Macon address.
 
 ## March 16, 2026
-Court enters Order for Service of Notice.
+**DOCUMENTED:** court/service documents include:
+- Order for Service of Notice;
+- Notice;
+- Certificate of Service;
+- sheriff letter;
+- Return of Sheriff.
 
-Sheriff-related documents are generated.
+**REPORTED:** family says the papers were not personally handed to Kayveon.
 
-REPORTED:
-Family states the sheriff did not personally hand the probate papers to Kayveon and instead left them with his ex-girlfriend, who said she would give them to him.
-
-The actual Sheriff's Return must be obtained and compared to this account.
+The Return of Sheriff is now in the repository and must be compared against that account.
 
 ## April 8, 2026
-PruittHealth-Augusta Hills files a creditor claim associated with Betty's last illness.
+**DOCUMENTED:** PruittHealth-Augusta Hills files a creditor claim associated with Betty's last illness/care.
 
 ## April 22, 2026
-Court enters:
-- Oath
-- Order Admitting Will
-- Letters Testamentary
+**DOCUMENTED:** court enters:
+- Oath;
+- Order Admitting Will;
+- Letters Testamentary — NOT RELIEVED.
 
-The order reportedly finds heirs were served or acknowledged service.
+Frances becomes executor/personal representative.
 
-This finding should be compared to the actual Sheriff's Return and witness accounts.
+## April 22, 2026–Present
+**PRIORITY ADMINISTRATION GAP:** track:
+- inventory;
+- annual returns;
+- estate bank account;
+- property activity;
+- creditor payments;
+- executor/attorney fees;
+- distributions;
+- sale/transfer of Lawton property;
+- discharge/settlement filings.
+
+## Current Public Docket
+**DOCUMENTED:** case 26PV49392 is shown as OPEN.
